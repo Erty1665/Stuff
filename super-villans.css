@@ -1,0 +1,48 @@
+h1{
+  color: red;
+  background-color:blue;
+  border:5px solid black;
+}
+.erty{
+  color:white;
+  background-color:black;
+}
+.erty a{
+  color:white;
+}
+p{
+  color:white;
+  background-color:black;
+}
+.snake{
+  color:white;
+  background-color:black;
+}
+.venom{
+  height: 213px;
+  width: 150px;
+}
+.phantasia{
+  color:black;
+  background-color:#7F0040;
+}
+
+.phantasia a{
+  color: black;
+}
+p{
+  color:white;
+  background-color:black;
+}
+#cobra{
+  color:black;
+  background-color:#7F0040;
+}
+#carnage{
+  height: 213px ;
+  width: 150px  ;
+}
+#tall{
+  color:black;
+  background-color:#7F0040;
+}
